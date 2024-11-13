@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pastel_blue">#a6dcef</color>
+    <color name="pastel_red">#ff6961</color>
+    <color name="purple_700">#FF000000</color>
+    <color name="teal_200">#FF000000</color>
+    <color name="primary">#12233f</color>
+    <color name="purple_200">#FF000000</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pastel_green">#3FC59D</color>
+
+    <!-- Loot Colors -->
+    <color name="poor">#9d9d9d</color>
+    <color name="wow_yellow">#ffff00</color>
+    <color name="common">#ffffff</color>
+    <color name="uncommon">#1eff00</color>
+    <color name="rare">#0070dd</color>
+    <color name="epic">#a335ee</color>
+    <color name="legendary">#ff8000</color>
+    <color name="artifact">#e6cc80</color>
+    <color name="heirloom">#00ccff</color>
+</resources>
